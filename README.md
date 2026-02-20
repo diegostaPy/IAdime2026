@@ -1,4 +1,4 @@
-# 🤖 Curso de Inteligencia Artificial - FIUNA (2025)
+# 🤖 Curso de Inteligencia Artificial - FIUNA (2026)
 
 Repositorio oficial del curso de Inteligencia Artificial de la Facultad de Ingeniería (FIUNA).
 
@@ -15,7 +15,7 @@ Aplicar algoritmos de Machine Learning y Deep Learning para resolver problemas d
 
 ## 🗓 Estructura
 - **Teoría (Diego):** Conceptos y fundamentos
-- **Práctica (Christian):** Implementación con Scikit-Learn, TensorFlow/Keras
+- **Práctica (Christian):** Implementación con Scikit-Learn, TensorFlow/Keras, Pytorch
 
 ---
 
